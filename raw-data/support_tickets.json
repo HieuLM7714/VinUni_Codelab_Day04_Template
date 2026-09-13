@@ -106,5 +106,45 @@
     "status": "open",
     "created_at": "2026-09-10T10:04:42.940366+07:00",
     "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-013",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T17:20:11.972492"
+  },
+  {
+    "ticket_id": "TK-20260913-014",
+    "customer_name": "Khách hàng",
+    "issue_description": "Tôi tên Lê Minh Khoa, xe VF 8 của tôi bị lỗi hệ thống ADAS. Đây là vấn đề nghiêm trọng, cần xử lý gấp.",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2026-09-13T17:20:12.050128"
+  },
+  {
+    "ticket_id": "TK-20260913-015",
+    "customer_name": "Khách hàng",
+    "issue_description": "Chính sách bảo hành pin xe điện VinFast kéo dài bao lâu?",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2026-09-13T17:20:12.066319"
+  },
+  {
+    "ticket_id": "TK-20260913-016",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T17:24:36.362284"
+  },
+  {
+    "ticket_id": "TK-20260913-017",
+    "customer_name": "Lê Minh Khoa",
+    "issue_description": "Tôi tên Lê Minh Khoa, xe VF 8 của tôi bị lỗi hệ thống ADAS. Đây là vấn đề nghiêm trọng, cần xử lý gấp.",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T17:24:36.381577"
   }
 ]
